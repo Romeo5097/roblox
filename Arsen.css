@@ -1,0 +1,41 @@
+body{
+    background-image: url(HD-wallpaper-roblox-turquoise-logo-turquoise-brickwall-roblox-logo-online-games-roblox-neon-logo-roblox.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.gradient-button {
+    position: absolute;
+    top: 90%;
+    left: 2%;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #9EEFE1 0%, #00bbff 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+  }
+  .gradient-button:hover {
+    background-position: right center;
+  }
+  img{
+    position:fixed;
+    top: 1%;
+    left: 14%;
+    border: solid blue 3px;
+    border-radius: 15% ;
+    width: 1077px;
+    height:550px;
+  }
+  h2{
+    position: absolute;
+    top:70% ;
+    left:2% ;
+    color: azure;
+  }
